@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "Page test for tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soufianecode/Tailwind-CSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soufianecode/Tailwind-CSS/issues"
+  },
+  "homepage": "https://github.com/soufianecode/Tailwind-CSS#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.9"
+  }
+}
